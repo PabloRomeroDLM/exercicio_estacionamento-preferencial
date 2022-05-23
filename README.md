@@ -2,7 +2,7 @@
 ADS - exercício de estacionamento preferencial, algoritmos e programação.
 #
 - INICIO
-   - PERGUNTAR SE É IDOSO, GESTANTE OU PREFERÊNCIAL
+ - PERGUNTAR SE É IDOSO, GESTANTE OU PREFERÊNCIAL
     - RECEBER A RESPOSTA
     - COMBINAR A RESPOSTA COM UMA DAS OPÇÕES
      - SE FOR UMA DAS TRÊS OPÇÕES FORNECIDAS, FAÇA
