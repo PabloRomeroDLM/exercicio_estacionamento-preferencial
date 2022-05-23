@@ -8,7 +8,7 @@ ADS - exercício de estacionamento preferencial, algoritmos e programação.
      - SE FOR UMA DAS TRÊS OPÇÕES FORNECIDAS, FAÇA
      - SE NÃO FOR NENHUMA DAS TRÊS OPÇÕES, NÃO FAÇA
     - FIM ENQUANTO 
-   - FIM ENQUANTO
+  - FIM ENQUANTO
 - FIM 
 
 
